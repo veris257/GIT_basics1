@@ -19,7 +19,8 @@
     "validate-exercise-12": "jest -t exercise-12",
     "validate-exercise-13": "jest -t exercise-13",
     "validate-exercise-14": "jest -t exercise-14",
-    "validate-exercise-15": "jest -t exercise-15"
+    "validate-exercise-15": "jest -t exercise-15",
+    "autograding": "jest exercise"
   },
   "keywords": [
     "git",
